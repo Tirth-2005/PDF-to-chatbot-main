@@ -1,0 +1,4 @@
+pypdf
+streamlit
+google-generativeai
+numpy
